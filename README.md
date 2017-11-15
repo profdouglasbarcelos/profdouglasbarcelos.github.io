@@ -1,4 +1,14 @@
-<<<<<<< HEAD
+## Página pessoal de Douglas Barcelos
+
+Repositórios criados para compartilhar códigos gerados durante as aulas de: 
+- [Algoritmos](https://github.com/profdouglasbarcelos/Algoritmos)
+- [C/Cpp](https://github.com/profdouglasbarcelos/C-Cpp)
+- [C#](https://github.com/profdouglasbarcelos/CSharp)
+- [Asp.Net](https://github.com/profdouglasbarcelos/Asp.Net)
+- [Nuvem](https://github.com/profdouglasbarcelos/Nuvem)
+
+# Tema utilizado README
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -70,12 +80,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
-=======
-# Douglas Barcelos
-Repositórios criados para compartilhar códigos gerados durante as aulas de: 
-- [Algoritmos](https://github.com/profdouglasbarcelos/Algoritmos)
-- [C/Cpp](https://github.com/profdouglasbarcelos/C-Cpp)
-- [C#](https://github.com/profdouglasbarcelos/CSharp)
-- [Asp.Net](https://github.com/profdouglasbarcelos/Asp.Net)
-- [Nuvem](https://github.com/profdouglasbarcelos/Nuvem)
->>>>>>> f6b8d6662de37d9e63a12f559b9d3c431be4f2d3
+
