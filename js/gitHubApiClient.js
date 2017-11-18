@@ -5,10 +5,11 @@ function createRepoCard(repoName, repoDesc, repoUrl){
     str +=
     "<div class='col-sm-4  d-flex align-items-stretch mt-3'>"
     +" <div class='card border-primary text-center'>"
+    +"  <div class='card-header'>" + repoName + "</div>"
     +"   <div class='card-body'>"
-    +"     <h4 class='card-title'>" 
-    +       repoName 
-    +"     </h4>"
+    // +"     <h4 class='card-title'>" 
+    // +       repoName 
+    // +"     </h4>"
     +"     <p class='card-text'>"
     +       repoDesc
     +"     </p>"
