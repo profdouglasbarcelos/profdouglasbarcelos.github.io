@@ -1,0 +1,24 @@
+/*.icon-wrapper{
+    position:relative;
+    float:left;
+    border: none;
+}
+
+*.icon-blue {color: #0088cc}
+*.icon-grey {color: grey}
+i {   
+    width:100px;
+    text-align:center;
+    vertical-align:middle;
+}
+ .badge{
+    background: rgba(0,0,0,0.5);
+    width: auto;
+    height: auto;
+    margin: 0;
+    border-radius: 100%;
+    position:absolute;
+    top:-13px;
+    right:-8px;
+    padding:5px;
+} */
